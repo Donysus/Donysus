@@ -18,6 +18,7 @@ Currently pursuing a B.Tech in Mechanical Engineering (Automotive Specialization
 
 <br>
 What I Do
+
 <table>
 <tr>
 <td width="50%">
