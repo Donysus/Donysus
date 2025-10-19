@@ -1,17 +1,28 @@
 <h1 align="center">Hi 👋, I'm Raghav Jha</h1>
 <h3 align="center">An aspiring Quant and passionate Machine Learning Developer from India</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=donysus&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 💫 About Me
-I'm a Data Scientist and Applied Machine Learning enthusiast from India, currently pursuing a B.Tech in Mechanical Engineering (Automotive Specialization) at Delhi Technological University (DTU). I love solving real-world problems using data, mathematics, and intelligent systems—whether it's predicting financial markets or understanding customer behavior.
-🚀 What I Do
+💹 Hey, I'm Raghav — Aspiring Quant & Machine Learning Researcher
+I'm passionate about building mathematical models, algorithmic trading systems, and AI-driven financial strategies. My work lies at the intersection of quantitative finance, machine learning, and predictive modeling, especially in financial markets. Currently pursuing a B.Tech in Mechanical Engineering (Automotive Specialization) at Delhi Technological University (DTU) with a minor in Mathematics & Computing.
+📍 What I Do
 
-📊 Build predictive models using Python, PyTorch, TensorFlow & Scikit-Learn
-📈 Work with time-series forecasting (LSTMs, trading signals) and market analytics
-🧠 Explore deep learning & AI applications in finance, engineering, and automation
-📂 Convert raw datasets into actionable insights, visual reports & business strategies
+📈 Develop time-series models (LSTM, ARIMA, Transformers) for stock and crypto forecasting
+⚡ Build algorithmic trading simulations using model-generated buy/sell signals
+📊 Perform market data analysis, factor research, and risk evaluation
+🧠 Experiment with ML techniques for financial predictions, portfolio insights, and pricing
+💼 Previously worked as a Data Scientist at Cap XT Ventures, supporting renewable energy market analysis
+
+📂 Highlighted Work
+
+Crypto Forecasting LSTM Model – Engineered dynamic windows & predictive trading logic for simulated returns with Minmax scaling
+Stock Price Prediction (NASDAQ) – Built deep learning models with MSE optimization and performance validation using TensorFlow/Keras
+Customer Churn ML System – Designed predictive analytics & evaluated classifier performance with ROC curves
+
+🎯 Current Focus
+
+Becoming a Quantitative Researcher or Quant Developer
+Building advanced financial ML models, trading strategies & portfolio analytics tools
+Open to research collaborations, hedge fund internships, and fintech roles
 
 
 🌐 Connect With Me
@@ -52,11 +63,6 @@ I'm a Data Scientist and Applied Machine Learning enthusiast from India, current
 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Donysus&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
-🔝 Top Contributed Repositories
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Donysus&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </p>
 
 <p align="center">
