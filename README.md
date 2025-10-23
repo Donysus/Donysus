@@ -110,19 +110,19 @@ Designed predictive analytics & evaluated classifier performance using ROC-AUC a
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Donysus&show_icons=true&count_private=true&include_all_commits=true&theme=radical" 
+    src="https://github-readme-stats.vercel.app/api?username=Donysus&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" 
     alt="GitHub Stats" 
     height="180" 
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Donysus&layout=compact&theme=radical" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Donysus&layout=compact&theme=radical&hide_border=true&langs_count=8" 
     alt="Top Languages" 
     height="180" 
   />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Donysus&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Donysus&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <br>
