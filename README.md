@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Raghav Jha 👋</h1>
+<h1 align="center">Hi there, I'm Raghav Jha</h1>
 <h3 align="center">Aspiring Quantitative Researcher & Machine Learning Developer</h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 <br>
 
-## 👨‍💻 About Me
+## About Me
 
 I'm passionate about building mathematical models, algorithmic trading systems, and AI-driven financial strategies. My work lies at the intersection of **quantitative finance**, **machine learning**, and **predictive modeling**, especially in financial markets. 
 
@@ -20,13 +20,13 @@ Currently pursuing a **B.Tech in Mechanical Engineering (Automotive Specializati
 
 <br>
 
-### 🎯 What I Do
+### What I Do
 
 <table>
 <tr>
 <td width="50%">
 
-**📈 Financial Modeling & Trading**
+**Financial Modeling & Trading**
 - Develop time-series models (LSTM, ARIMA, Transformers) for stock and crypto forecasting  
 - Build algorithmic trading simulations using model-generated buy/sell signals  
 - Perform market data analysis, factor research, and risk evaluation  
@@ -34,7 +34,7 @@ Currently pursuing a **B.Tech in Mechanical Engineering (Automotive Specializati
 </td>
 <td width="50%">
 
-**🤖 Machine Learning & AI**
+**Machine Learning & AI**
 - Experiment with ML techniques for financial predictions and portfolio insights  
 - Design predictive analytics systems with performance optimization  
 - Previously worked as a Data Scientist at Cap XT Ventures on renewable energy market analysis  
@@ -45,25 +45,25 @@ Currently pursuing a **B.Tech in Mechanical Engineering (Automotive Specializati
 
 <br>
 
-### 🚀 Highlighted Projects
+### Highlighted Projects
 
 <table>
 <tr>
 <td width="33%">
 
-**💰 Crypto Forecasting LSTM**  
+**Crypto Forecasting LSTM**  
 Engineered dynamic windows & predictive trading logic for simulated returns with MinMax scaling  
 
 </td>
 <td width="33%">
 
-**📊 Stock Price Prediction**  
+**Stock Price Prediction**  
 Built deep learning models with MSE optimization and performance validation using TensorFlow/Keras  
 
 </td>
 <td width="33%">
 
-**🎯 Customer Churn ML**  
+**Customer Churn ML**  
 Designed predictive analytics & evaluated classifier performance using ROC-AUC and precision-recall metrics  
 
 </td>
@@ -72,7 +72,7 @@ Designed predictive analytics & evaluated classifier performance using ROC-AUC a
 
 <br>
 
-### 🎓 Current Focus
+### Current Focus
 
 - Becoming a **Quantitative Researcher** or **Quant Developer**  
 - Building advanced **financial ML models**, trading strategies & portfolio analytics tools  
@@ -84,7 +84,7 @@ Designed predictive analytics & evaluated classifier performance using ROC-AUC a
 
 <br>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/></a>
@@ -106,7 +106,7 @@ Designed predictive analytics & evaluated classifier performance using ROC-AUC a
 
 <br>
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img 
@@ -131,22 +131,11 @@ Designed predictive analytics & evaluated classifier performance using ROC-AUC a
 
 <br>
 
-## 🏆 Achievements & Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Quant_Finance-Specialist-00599C?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep_Learning-PyTorch/TF-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-</p>
-
-<br>
-
 ---
 
 <br>
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Donysus&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
