@@ -9,7 +9,7 @@
   </a>
 </p>
 <br>
-About Me
+
 I'm passionate about building mathematical models, algorithmic trading systems, and AI-driven financial strategies. My work lies at the intersection of quantitative finance, machine learning, and predictive modeling, especially in financial markets.
 Currently pursuing a B.Tech in Mechanical Engineering (Automotive Specialization) at Delhi Technological University (DTU) with a minor in Mathematics & Computing.
 <br>
