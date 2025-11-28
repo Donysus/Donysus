@@ -94,19 +94,6 @@ Designed predictive analytics & evaluated classifier performance using ROC-AUC a
 <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="45" height="45"/></a>
 </p>
 
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats-cyan-omega.vercel.app/api?username=Donysus&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&cache_seconds=1800" 
-    alt="GitHub Stats" 
-    height="180" 
-  />
-  <img 
-    src="https://github-readme-stats-cyan-omega.vercel.app/api/top-langs/?username=Donysus&layout=compact&theme=radical&hide_border=true&langs_count=8&count_private=true" 
-    alt="Top Languages" 
-    height="180" 
-  />
-</p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Donysus&theme=radical" alt="Contribution Graph" />
 </p>
