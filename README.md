@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Raghav Jha</h1>
-<h3 align="center">Aspiring Quantitative Researcher & Machine Learning Developer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/raghav-jha-512b8a309" target="_blank">
