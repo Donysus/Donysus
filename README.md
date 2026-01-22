@@ -69,12 +69,6 @@ Designed predictive analytics & evaluated classifier performance using ROC-AUC a
 </tr>
 </table>
 
----
-
-### Current Focus
-- Becoming a **Quantitative Researcher** or **Quant Developer**  
-- Building advanced financial ML models, trading strategies & portfolio analytics tools  
-- Open to **research collaborations**, **hedge fund internships**, and **fintech roles**
 
 ---
 
